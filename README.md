@@ -1,2 +1,2 @@
 # PlayerByLamos
-T会死Kotlin Ex Project
+This is Android Project by Kotlin.
